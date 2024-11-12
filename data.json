@@ -1,0 +1,59 @@
+[
+  {
+    "_id": "001",
+    "isActive": "true",
+    "price": "250.00",
+    "name": "Damage Reverse Oil Conditioner",
+    "about": "Dolor voluptate velit consequat duis.",
+    "tags": [
+      "ojon",
+      "oil",
+      "conditioner"
+    ]
+  },
+  {
+    "_id": "002",
+    "isActive": "true",
+    "price": "322.00",
+    "name": "Volume Advance Conditioner",
+    "about": "Dolor voluptate velit consequat duis.",
+    "tags": [
+      "ojon",
+      "conditioner"
+    ]
+  },
+  {
+    "_id": "003",
+    "isActive": "true",
+    "price": "303.00",
+    "name": "Volume Advance Shampoo",
+    "about": "Dolor voluptate velit consequat duis.",
+    "tags": [
+      "ojon",
+      "shampoo"
+    ]
+  },
+  {
+    "_id": "004",
+    "isActive": "true",
+    "price": "230.00",
+    "name": "Damage Reverse Oil Shampoo",
+    "about": "Dolor voluptate velit consequat duis.",
+    "tags": [
+      "ojon",
+      "oil",
+      "shampoo"
+    ]
+  },
+  {
+    "_id": "005",
+    "isActive": "true",
+    "price": "27.00",
+    "name": "Color Sustain Pro",
+    "about": "Dolor voluptate velit consequat duis.",
+    "tags": [
+      "ojon",
+      "treatment"
+    ]
+  }
+]
